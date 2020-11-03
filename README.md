@@ -26,9 +26,9 @@ I had interest in software development since high school and wrote console calcu
 <br>
 
 <p>
-<img src='http://3con14.biz/code/_data/js/intro/js-logo.png' alt='Redux Logo with Light Title' width='300'>
-<img src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png' alt='Redux Logo with Light Title' width='300'>
-<img src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png' alt='Redux Logo with Light Title' width='500'>
+<img height='300' src='http://3con14.biz/code/_data/js/intro/js-logo.png' alt='Redux Logo with Light Title'>
+<img height='300' src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png' alt='Redux Logo with Light Title'>
+<img height='300' src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png' alt='Redux Logo with Light Title'>
 </p>
 
 ## 📫 Contact Me
