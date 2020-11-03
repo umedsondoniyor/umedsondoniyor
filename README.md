@@ -26,13 +26,13 @@ I had interest in software development since high school and wrote console calcu
 <br>
 
 <p>
-<img height='50' src='http://3con14.biz/code/_data/js/intro/js-logo.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height='50' src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height='50' src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png'><br>
+<img height='100' src='http://3con14.biz/code/_data/js/intro/js-logo.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height='100' src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height='100' src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png'><br>
 <a href="https://tailwindcss.com/" target="_blank">
-  <img alt="Tailwind CSS" width="150" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
+  <img alt="Tailwind CSS" width="200" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height='50' src='https://github.com/gilbarbara/logos/blob/master/logos/python.svg'>
+<img height='100' src='https://github.com/gilbarbara/logos/blob/master/logos/python.svg'>
 </p>
 
 ## 📫 Contact Me
