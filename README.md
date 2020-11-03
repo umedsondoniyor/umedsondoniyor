@@ -25,8 +25,8 @@ I had interest in software development since high school and wrote console calcu
 
 <br>
 
+[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <p>
-[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript
 <img height="50" src="https://yasinates.com/tech/react.svg">
 <img height="50" src="https://yasinates.com/tech/sass.svg">
 </p>
