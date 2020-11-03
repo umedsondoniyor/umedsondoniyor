@@ -27,7 +27,7 @@ I had interest in software development since high school and wrote console calcu
 
 <p>
 <img height='150' src='http://3con14.biz/code/_data/js/intro/js-logo.png'>
-<img height='300' src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png'>
+<img height='150' src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png'>
 <img height='300' src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png'>
 </p>
 
