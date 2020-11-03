@@ -34,3 +34,5 @@ I had interest in software development since high school and wrote console calcu
 -  umedzhonizbasarov@gmail.com
 
 <br>
+
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/umedsondoniyor.umedsondoniyor/readme)
