@@ -27,10 +27,10 @@ I had interest in software development since high school and wrote console calcu
 
 <p>
 <img width='100' src='http://3con14.biz/code/_data/js/intro/js-logo.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width='100' src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width='100' src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-dark.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width='110' src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width='150' src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-dark.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="80" src="https://yasinates.com/tech/sass.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="100" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
+<img width="150" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
 </p>
 
 ## 📫 Contact Me
