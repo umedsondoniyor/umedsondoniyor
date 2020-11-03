@@ -27,6 +27,7 @@ I had interest in software development since high school and wrote console calcu
 
 [![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
+<img src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png' alt='Redux Logo with Light Title' width='500'>
 <img src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png' alt='Redux Logo with Light Title' width='500'>
 
 ## 📫 Contact Me
