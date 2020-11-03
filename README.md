@@ -26,7 +26,7 @@ I had interest in software development since high school and wrote console calcu
 <br>
 
 <p>
-<img height="50" src="https://yasinates.com/tech/react.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://yasinates.com/tech/react.svg">
 <img height="50" src="https://yasinates.com/tech/sass.svg">
 </p>
 
