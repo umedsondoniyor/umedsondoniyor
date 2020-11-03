@@ -32,7 +32,6 @@ I had interest in software development since high school and wrote console calcu
 <a href="https://tailwindcss.com/" target="_blank">
   <img alt="Tailwind CSS" width="200" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height='100' src='https://github.com/gilbarbara/logos/blob/master/logos/python.svg'>
 </p>
 
 ## 📫 Contact Me
