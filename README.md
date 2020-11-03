@@ -30,8 +30,8 @@ I had interest in software development since high school and wrote console calcu
 <img height='50' src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height='50' src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank">
-  <img alt="Tailwind CSS" width="50" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
-</a>
+  <img alt="Tailwind CSS" width="150" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height='50' src='https://github.com/gilbarbara/logos/blob/master/logos/python.svg'>
 </p>
 
