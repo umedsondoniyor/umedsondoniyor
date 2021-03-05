@@ -8,7 +8,7 @@ I'm a **Remote Frontend Developer** living in Ankara/Turkey
 
 ## 📖 About Me
 
-I have had interest in software development since high school and wrote console calculator with C++ in 2010. It was a simple console calculator with basic operations but I was very happy, confused and curios. After graduating from high-school I wanted to major in CS and moved abroad because studying in different country was one of my childhood dreams wich come true :) I've started working as Fronend Developer since March 2019 I try to follow up-to-date technologies related to software, mostly frontend. I want to post my soft skill experiences on Medium and tech skill on dev.to. You can follow the links below to get to know me better and follow :)
+I have had interest in software development since high school and implemented calculator with C++ on console in 2010. It was a simple console calculator with basic operations but I was very happy, confused and curios. After graduating from high-school I wanted to major in CS and moved abroad because studying in different country was one of my childhood dreams wich come true :) I've started working as Fronend Developer since March 2019 I try to follow up-to-date technologies related to software, mostly frontend. I want to post my soft skill experiences on Medium and tech skill on dev.to. You can follow the links below to get to know me better and follow :)
 
 <p>
 <a href="https://twitter.com/UmedzhonIzbasar" target="_blank"><img src="https://img.shields.io/twitter/follow/UmedzhonIzbasar?label=let%27s%20tweet&style=social"></a>
