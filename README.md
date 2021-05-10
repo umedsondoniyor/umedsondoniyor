@@ -3,7 +3,7 @@
 ![Umedzhon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umedsondoniyor&show_icons=true&theme=dark)
 
 
-I'm a **Remote Frontend Developer** living in Ankara/Turkey
+I'm a **Software Developer** living in Ankara/Turkey
 
 
 ## 📖 About Me
