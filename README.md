@@ -2,29 +2,46 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umedsondoniyor&show_icons=true&theme=tokyonight)
 
-I'm a **Software Engineer** passionate about building products that make life easier.  
-Currently based in **Ankara, Turkey** 🇹🇷  
+I'm a **Software Engineer** passionate about building robust web applications, seamless integrations, and innovative solutions.  
+Currently based in **Dushanbe, Tajikistan** 🇹🇯  
 
 ---
 
 ## 📖 About Me  
 
-- 💻 Started coding back in 2010 with a simple C++ console calculator — and instantly got hooked.  
-- 🎓 Graduated in **Computer Engineering** and turned my childhood dream of studying abroad into reality.  
-- 🚀 Since **2019**, I’ve been working as a **Frontend Developer** and expanding into **Full-Stack Engineering**.  
-- 📚 Always exploring new technologies (React, TypeScript, Node.js, SQL, Supabase, Terraform on Azure, and more).  
-- ✍️ Sharing thoughts & experiences:  
-  - **Tech & tutorials** on [dev.to](https://dev.to/umedzhon)  
-  - **Personal reflections & soft skills** on [Medium](https://medium.com/@umedzhonizbasarov)  
+A Software Engineer with 6+ years of experience, blending strong **frontend expertise** with backend and system integration skills.  
 
-I love blending technical problem-solving with creativity, and I’m always on the lookout for impactful projects and collaborations.  
+- 💻 **Core Experience**  
+  - Develop modules, design tables, and implement complex features by integrating microservices with a **low-code platform (Peaka)** using **SQL, JavaScript, and React**:contentReference[oaicite:0]{index=0}.  
+  - Built and maintain **Python-driven automation systems** to exchange data with **governmental portals** and developed a full **incident management system**:contentReference[oaicite:1]{index=1}.  
+  - Reverse-engineered and seamlessly integrated **Envolve** and **EIM** portals for direct system communication.  
+
+- 🛠 **Previous Roles**  
+  - **Frontend Developer @ Dama.Dev** → Built the company website with Tailwind & Alpine.js, contributed to **Student Ally** (React + React Native), and resolved issues on the Austin municipality Drupal 8 site.  
+  - **Frontend Developer @ Zarcony** → Developed reusable UI components with **Laravel, Bootstrap, and jQuery**, focusing on RTL design and bug fixes.  
+
+- 🎓 **Education**  
+  - Bachelor’s in **Computer Engineering** from Kastamonu University, Turkey (2018).  
+  - Excelled in **Machine Learning, ANN, and Image Processing**.  
+  - Senior project: Built a Turkish web platform to enhance algorithmic understanding.  
+
+- 🚀 **Projects**  
+  - [Sakina App](https://github.com/umedsondoniyor/sakina-tj) → 📦 Sakina TJ – E-Commerce Platform (single merchant architecture)
+  - [LyricsFinder React App](https://github.com/umedsondoniyor/lyricsfinder_react) → find lyrics using Musixmatch API (deployed on Heroku).  
+
+- 🌍 **Languages**  
+  - English, Russian (Professional)  
+  - Turkish, Uzbek, Tajik, Persian (Native/Fluent):contentReference[oaicite:2]{index=2}  
+
+- 🎮 **Beyond Tech**  
+  Passionate about brainstorming innovative ideas, bringing pet projects to life, and dominating on the **ping-pong table** 🏓.  
 
 ---
 
 ## 🛠️ Tech Stack & Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,graphql,postgresql,mysql,supabase,tailwind,sass,git,github,azure,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,graphql,postgresql,mysql,supabase,tailwind,sass,bootstrap,git,github,azure,python,php,laravel,angular" />
 </p>  
 
 ---
