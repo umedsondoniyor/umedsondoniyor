@@ -1,40 +1,58 @@
-### Hi! I'm Umedzhon. Welcome to my Github Profile 👋
+### Hi there! I'm Umedzhon 👋  
 
-![Umedzhon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umedsondoniyor&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umedsondoniyor&show_icons=true&theme=tokyonight)
 
+I'm a **Software Engineer** passionate about building products that make life easier.  
+Currently based in **Ankara, Turkey** 🇹🇷  
 
-I'm a **Software Developer** living in Ankara/Turkey
+---
 
+## 📖 About Me  
 
-## 📖 About Me
+- 💻 Started coding back in 2010 with a simple C++ console calculator — and instantly got hooked.  
+- 🎓 Graduated in **Computer Engineering** and turned my childhood dream of studying abroad into reality.  
+- 🚀 Since **2019**, I’ve been working as a **Frontend Developer** and expanding into **Full-Stack Engineering**.  
+- 📚 Always exploring new technologies (React, TypeScript, Node.js, SQL, Supabase, Terraform on Azure, and more).  
+- ✍️ Sharing thoughts & experiences:  
+  - **Tech & tutorials** on [dev.to](https://dev.to/umedzhon)  
+  - **Personal reflections & soft skills** on [Medium](https://medium.com/@umedzhonizbasarov)  
 
-I have had interest in software development since high school and implemented calculator with C++ on console in 2010. It was a simple console calculator with basic operations but I was very happy, confused and curios. After graduating from high-school I wanted to major in CS and moved abroad because studying in different country was one of my childhood dreams wich come true :) I've started working as Fronend Developer since March 2019 I try to follow up-to-date technologies related to software, mostly frontend. I want to post my soft skill experiences on Medium and tech skill on dev.to. You can follow the links below to get to know me better and follow :)
+I love blending technical problem-solving with creativity, and I’m always on the lookout for impactful projects and collaborations.  
+
+---
+
+## 🛠️ Tech Stack & Skills  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,graphql,postgresql,mysql,supabase,tailwind,sass,git,github,azure,python" />
+</p>  
+
+---
+
+## 🌐 Connect with Me  
 
 <p>
-<a href="https://twitter.com/UmedzhonIzbasar" target="_blank"><img src="https://img.shields.io/twitter/follow/UmedzhonIzbasar?label=let%27s%20tweet&style=social"></a>
-<a href="https://www.linkedin.com/in/umedzhon-izbasarov/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%23303036?logo=linkedin&color=%23303036&style=flat-square"></a>
-<a href="https://medium.com/@umedzhonizbasarov" target="_blank">
-<img src="https://img.shields.io/badge/Medium-%23303036?logo=medium&color=%23303036&style=flat-square">
-</a>
-<a href="https://dev.to/umedzhon" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-%23303036?logo=dev.to&color=%23303036&style=flat-square">
-</a>
-</p>
+  <a href="https://twitter.com/UmedzhonIzbasar" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/UmedzhonIzbasar?label=Follow&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/umedzhon-izbasarov/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" />
+  </a>
+  <a href="https://medium.com/@umedzhonizbasarov" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat" />
+  </a>
+  <a href="https://dev.to/umedzhon" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white&style=flat" />
+  </a>
+</p>  
 
-## 📚 My Skills
+---
 
-<br>
+## 📫 Contact  
 
-<p>
-<img width='100' src='http://3con14.biz/code/_data/js/intro/js-logo.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width='110' src='https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width='200' src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-dark.png'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="100" src="https://yasinates.com/tech/sass.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="200" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
-</p>
+- 📧 Email: **umedzhonizbasarov@gmail.com**  
+- 🌍 Portfolio coming soon… 🚧  
 
-## 📫 Contact Me
--  umedzhonizbasarov@gmail.com
+---
 
-<br>
-
+⭐️ _Thanks for stopping by! Feel free to explore my repos and connect._  
