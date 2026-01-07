@@ -27,7 +27,7 @@ A Software Engineer with 6+ years of experience, blending strong **frontend expe
 
 - 🚀 **Projects**  
   - [Sakina App](https://github.com/umedsondoniyor/sakina-tj) → 📦 Sakina TJ – E-Commerce Platform (single merchant architecture)
-  - [LyricsFinder React App](https://github.com/umedsondoniyor/lyricsfinder_react) → find lyrics using Musixmatch API (deployed on Heroku).  
+  - to be added tons of other projects Ive worked on veryu soon
 
 - 🌍 **Languages**  
   - English, Russian (Professional)  
