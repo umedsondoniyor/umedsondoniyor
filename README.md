@@ -1,6 +1,6 @@
 ### Hi there! I'm Umedzhon 👋  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umedsondoniyor&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umedsondoniyor&show_icons=true)
 
 I'm a **Software Engineer** passionate about building robust web applications, seamless integrations, and innovative solutions.  
 Currently based in **Dushanbe, Tajikistan** 🇹🇯  
