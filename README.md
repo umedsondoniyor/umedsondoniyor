@@ -1,75 +1,93 @@
-### Hi there! I'm Umedzhon 👋  
+## Hi, I’m Umedzhon 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umedsondoniyor&show_icons=true)
-
-I'm a **Software Engineer** passionate about building robust web applications, seamless integrations, and innovative solutions.  
-Currently based in **Dushanbe, Tajikistan** 🇹🇯  
+**Senior Software Engineer** with 6+ years of experience building scalable web applications, enterprise integrations, and automation systems.  
+📍 Dushanbe, Tajikistan | 🌍 Open to remote opportunities
 
 ---
 
-## 📖 About Me  
+## 👨‍💻 About Me
 
-A Software Engineer with 6+ years of experience, blending strong **frontend expertise** with backend and system integration skills.  
+I specialize in **full-stack development**, **enterprise system integration**, and **low-code platform solutions**.  
+My work focuses on solving complex business problems, optimizing data-heavy systems, and delivering reliable, production-grade software.
 
-- 💻 **Core Experience**  
-  - Develop modules, design tables, and implement complex features by integrating microservices with a **low-code platform (Peaka)** using **SQL, JavaScript, and React**:contentReference[oaicite:0]{index=0}.  
-  - Built and maintain **Python-driven automation systems** to exchange data with **governmental portals** and developed a full **incident management system**:contentReference[oaicite:1]{index=1}.  
-  - Reverse-engineered and seamlessly integrated **Envolve** and **EIM** portals for direct system communication.  
-
-- 🛠 **Previous Roles**  
-  - **Frontend Developer @ Dama.Dev** → Built the company website with Tailwind & Alpine.js, contributed to **Student Ally** (React + React Native), and resolved issues on the Austin municipality Drupal 8 site.  
-  - **Frontend Developer @ Zarcony** → Developed reusable UI components with **Laravel, Bootstrap, and jQuery**, focusing on RTL design and bug fixes.  
-
-- 🎓 **Education**  
-  - Bachelor’s in **Computer Engineering** from Kastamonu University, Turkey (2018).  
-  - Excelled in **Machine Learning, ANN, and Image Processing**.  
-  - Senior project: Built a Turkish web platform to enhance algorithmic understanding.  
-
-- 🚀 **Projects**  
-  - [Sakina App](https://github.com/umedsondoniyor/sakina-tj) → 📦 Sakina TJ – E-Commerce Platform (single merchant architecture)
-  - to be added tons of other projects Ive worked on veryu soon
-
-- 🌍 **Languages**  
-  - English, Russian (Professional)  
-  - Turkish, Uzbek, Tajik, Persian (Native/Fluent):contentReference[oaicite:2]{index=2}  
-
-- 🎮 **Beyond Tech**  
-  Passionate about brainstorming innovative ideas, bringing pet projects to life, and dominating on the **ping-pong table** 🏓.  
+### Core Expertise
+- Enterprise & governmental system integrations (API reverse engineering, secure data exchange)
+- Low-code platform development (**Peaka**) with complex business logic
+- Full-stack development (React / Next.js, Node.js, Python)
+- Advanced SQL, data analytics, and performance optimization
+- Incident Management Systems & operational dashboards
+- Data processing, ETL pipelines, Excel import/export automation
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 💼 Experience
+
+**Enterprise Software Engineer (Current)**
+- Develop production-grade modules on a low-code platform
+- Integrate microservices using **SQL**, **JavaScript**, and **React**
+- Built a full **Incident Management System** with multi-level dashboards, real-time KPIs, and automated reporting
+- Designed **Python automation** for governmental data exchange
+- Optimized complex SQL queries for large datasets and analytics workloads
+
+**Previous Roles**
+- **Frontend Developer — Dama.Dev**  
+  Tailwind, Alpine.js, React, React Native, Drupal 8
+- **Frontend Developer — Zarcony**  
+  Laravel, Bootstrap, jQuery, RTL layouts
+
+---
+
+## 🚀 Selected Projects
+
+### **Sakina TJ — E-Commerce Platform**
+🔗 https://github.com/umedsondoniyor/sakina-tj  
+Single-merchant e-commerce system with custom product logic, payments, and admin dashboard.
+
+### **Enterprise Incident Management System**
+- Multi-dashboard analytics (Enterprise, Regional, Manager, Program, Individual)
+- Optimized SQL with CTEs, window functions, and aggregations
+- Real-time KPIs, timeliness tracking, automated reports
+- Excel-based ETL pipelines and data validation
+
+> More projects will be added soon.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Redux, Tailwind, Sass  
+**Backend:** Node.js, Python, PHP, Laravel  
+**Database:** PostgreSQL (advanced), MySQL, Supabase  
+**Other:** SQL analytics, ETL pipelines, low-code platforms, Azure, Git
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,graphql,postgresql,mysql,supabase,tailwind,sass,bootstrap,git,github,azure,python,php,laravel,angular" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,postgresql,mysql,tailwind,git,github,azure,php,laravel" />
+</p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🌍 Languages
 
-<p>
-  <a href="https://twitter.com/UmedzhonIzbasar" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/UmedzhonIzbasar?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/umedzhon-izbasarov/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" />
-  </a>
-  <a href="https://medium.com/@umedzhonizbasarov" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat" />
-  </a>
-  <a href="https://dev.to/umedzhon" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white&style=flat" />
-  </a>
-</p>  
+English, Russian (Professional)  
+Turkish, Uzbek, Persian (Fluent)  
+Tajik (Native)
 
 ---
 
-## 📫 Contact  
+## 🌐 Connect
 
-- 📧 Email: **umedzhonizbasarov@gmail.com**  
-- 🌍 Portfolio coming soon… 🚧  
+- LinkedIn: https://www.linkedin.com/in/umedzhon-izbasarov/
+- Twitter: https://twitter.com/UmedzhonIzbasar
+- Medium: https://medium.com/@umedzhonizbasarov
+- Dev.to: https://dev.to/umedzhon
 
 ---
 
-⭐️ _Thanks for stopping by! Feel free to explore my repos and connect._  
+## 📫 Contact
+
+📧 umedzhonizbasarov@gmail.com  
+💼 Open to remote roles, contracts, and interesting technical challenges
+
+---
+
+⭐️ Thanks for visiting — feel free to explore my repositories or reach out.
