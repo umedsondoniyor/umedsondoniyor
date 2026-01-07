@@ -41,6 +41,7 @@ My work focuses on solving complex business problems, optimizing data-heavy syst
 
 ### **Sakina TJ — E-Commerce Platform**
 🔗 https://github.com/umedsondoniyor/sakina-tj  
+https://www.sakina.tj/
 Single-merchant e-commerce system with custom product logic, payments, and admin dashboard.
 
 ### **Enterprise Incident Management System**
