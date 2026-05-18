@@ -37,22 +37,6 @@ My work focuses on solving complex business problems, optimizing data-heavy syst
 
 ---
 
-## 🚀 Selected Projects
-
-### **Sakina TJ — E-Commerce Platform** https://www.sakina.tj/
-🔗 https://github.com/umedsondoniyor/sakina-tj  
-Single-merchant e-commerce system with custom product logic, payments, and admin dashboard.
-
-### **Enterprise Incident Management System**
-- Multi-dashboard analytics (Enterprise, Regional, Manager, Program, Individual)
-- Optimized SQL with CTEs, window functions, and aggregations
-- Real-time KPIs, timeliness tracking, automated reports
-- Excel-based ETL pipelines and data validation
-
-> More projects will be added soon.
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend:** React, Next.js, TypeScript, Redux, Tailwind, Sass  
